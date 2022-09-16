@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kun Yuan, a Ph.D. student co-supervised by Prof. Nicolas PADOY (Université de Strasbourg) and Prof. Nassir NAVAB (Technische Universität München). My research focus is the AI in healthcare, especially to design the computer vision based algorithms to build multiple applications in the laparoscopic surgeries and robotic surgeries. I am also interested in the label-efficient learning with computer simulated images and fewly annotated real-world images. The multi-moidality learning from text supervision is my current research focus and I am welcome to any collaboration.
+My name is Kun Yuan, a Ph.D. student co-supervised by Prof. [Nicolas PADOY](http://camma.u-strasbg.fr/npadoy) (Université de Strasbourg) and Prof. [Nassir NAVAB](https://www.professoren.tum.de/navab-nassir) (Technische Universität München). My research focus is the AI in healthcare, especially to design the computer vision based algorithms to build multiple applications in the laparoscopic surgeries and robotic surgeries. I am also interested in the label-efficient learning with computer simulated images and fewly annotated real-world images. The multi-moidality learning from text supervision is my current research focus and I am welcome to any collaboration.
 
 Education
 ======
