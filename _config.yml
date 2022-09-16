@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Kun Yuan"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "I am moving slow."
   location         : "Strasbourg, France"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zId4EqoAAAAJ&hl=zh-CN"
   email            : "kun.yuan@ext.ihu-strasbourg.eu"
-  researchgate     : "https://camma.u-strasbg.fr/"
+#   researchgate     : "https://camma.u-strasbg.fr/"
   uri              :
   bitbucket        :
   codepen          :
