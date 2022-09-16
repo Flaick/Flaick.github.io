@@ -1,10 +1,8 @@
 ---
-title: "Anticipation for Surgical Wrokflow using Instrument Interaction and Recognized Signals"
+title: "Anticipation for Surgical Workflow Using Instrument Interaction and Recognized Signals"
 collection: publications
-excerpt: 'This work extends from the MICCAI's work and solves the surgical instrument and phase presence anticipation using the recognized presence signals from the real world.'
-date: 2022-09-06
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'This paper is the extension of the MICCAI 2021 paper, resolving the need for human annotation'
+date: 202-09-06
 venue: 'Medical Image Analysis'
-paperurl: ''
 ---
-
-[Download paper here]()
