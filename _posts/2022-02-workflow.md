@@ -1,6 +1,6 @@
 ---
 title: '视觉手术流分析（Surgical Workflow Analysis'
-permalink: /posts/surgical_workflow_analysis
+permalink: /posts/2022/02/workflow
 date: 2022-02-07
 tags:
   - Surgical Datascience
