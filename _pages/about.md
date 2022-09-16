@@ -13,29 +13,24 @@ My name is Kun Yuan, a Ph.D. student co-supervised by Prof. [Nicolas PADOY](http
 Education
 ======
 
-Ph.D. Student, Technische Universität München, 09/2022 - present   
-------
+### Ph.D. Student, Technische Universität München, 09/2022 - present   
 Chair for Computer Aided Medical Procedures Group (CAMP), supervised by Prof. Nassir NAVAB.      
 
-Ph.D. Student, Université de Strasbourg, 09/2022 - present 
-------
+### Ph.D. Student, Université de Strasbourg, 09/2022 - present 
 Computational Analysis and Modeling of Medical Activities Group (CAMMA), supervised by Prof. Nicolas PADOY       
 
-Graduate Student, University of Ottawa, 09/2019 - 09/2022        
-------
+### Graduate Student, University of Ottawa, 09/2019 - 09/2022        
+Co-supervised by the Prof. [Wonsook Lee](https://sites.google.com/view/labiii/home) and Prof. [Matthew Holden](https://carleton.ca/scs/people/matthew-holden/).
 
-Undergraduate Student, China University of Petroleum, 09/2015 - 09/2019         
-------
+### Undergraduate Student, China University of Petroleum, 09/2015 - 09/2019         
 
 
 Experiences
 ======
 
-Researh Engineer, [OpenMMLab](https://openmmlab.com/), [SHLab](https://www.shlab.org.cn/), 03/2021 - 03/2022  
-------
+### Researh Engineer, [OpenMMLab](https://openmmlab.com/), [SHLab](https://www.shlab.org.cn/), 03/2021 - 03/2022  
 
-Visiting Student, [DEEP BIT LAB](https://mypage.cuhk.edu.cn/academics/lizhen/),Chinese University of Hongkong (Shenzhen), 04/2019 - 11/2019        
-------
+### Visiting Student, [DEEP BIT LAB](https://mypage.cuhk.edu.cn/academics/lizhen/),Chinese University of Hongkong (Shenzhen), 04/2019 - 11/2019        
 
 Activities     
 ======
