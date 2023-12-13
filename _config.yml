@@ -86,7 +86,7 @@ author:
   location         : "Strasbourg, France"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zId4EqoAAAAJ&hl=zh-CN"
+  googlescholar    : "scholar.google.com/citations?user=zId4EqoAAAAJ&hl=zh-CN"
   email            : "kun.yuan@ext.ihu-strasbourg.eu"
 #   researchgate     : "https://camma.u-strasbg.fr/"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Flaick"
+  github           : "github.com/Flaick"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kun-yuan-b2425219b/"
+  linkedin         : "www.linkedin.com/in/kun-yuan-b2425219b/"
 #   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
