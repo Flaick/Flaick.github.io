@@ -5,3 +5,4 @@ permalink: /publication/ccxray
 date: 2021-04-13
 venue: 'IEEE 18th International Symposium on Biomedical Imaging (ISBI)'
 ---
+[PDF](https://ieeexplore.ieee.org/document/9433870)
