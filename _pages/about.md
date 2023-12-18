@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kun Yuan, a Ph.D. student co-supervised by Prof. [Nicolas PADOY](http://camma.u-strasbg.fr/npadoy) (Université de Strasbourg) and Prof. [Nassir NAVAB](https://www.professoren.tum.de/navab-nassir) (Technische Universität München). My research focus is the AI in healthcare, especially to design the computer vision based algorithms to build multiple applications in the laparoscopic surgeries and robotic surgeries. I am also interested in the label-efficient learning with computer simulated images and fewly annotated real-world images. The multi-moidality learning from text supervision is my current research focus and I am welcome to any collaboration.
+My name is Kun Yuan, a Ph.D. student, co-supervised by Prof. [Nicolas PADOY](http://camma.u-strasbg.fr/npadoy) (Université de Strasbourg) and Prof. [Nassir NAVAB](https://www.professoren.tum.de/navab-nassir) (Technische Universität München). My research focus is the AI in healthcare, especially to design the computer vision based algorithms to build multiple applications in the laparoscopic surgeries and robotic surgeries. I am also interested in the multi-moidality learning with vision and language in surgical field. I am always open to collaboration. Feel free to drop me an e-mail.
+
+News
+======
+[Dec. 2023] One paper accepted at IPCAI 2024.              
+[Aug. 2023] We are excited to share our surgical vision-language foundation model [arxiv](https://arxiv.org/abs/2307.15220), the code will release later.             
+[Jul. 2023] Successful completion of the Surgical Data Science Summer School [link](https://www.edu4sds.org/) , with heartfelt thanks to all involved                             
+[Sep. 2022] I am pleased to join CAMMA and CAMP for the Ph.D. study.              
 
 Education
 ======
@@ -31,14 +38,3 @@ Experiences
 ### Researh Engineer, [OpenMMLab](https://openmmlab.com/), [SHLab](https://www.shlab.org.cn/), 03/2021 - 03/2022  
 
 ### Visiting Student, [DEEP BIT LAB](https://mypage.cuhk.edu.cn/academics/lizhen/),Chinese University of Hongkong (Shenzhen), 04/2019 - 11/2019        
-
-Activities     
-======
-![Summer School at Institute of Image-Guided Surgery](/images/summer_school.jpg)
-
-CAMMA Retreat
-![CAMMA Retreat](/images/camma_retreat.jpg)
-
-CAMPing Retreat
-![CAMPing Retreat](/images/camp_retreat.jpg)
-
