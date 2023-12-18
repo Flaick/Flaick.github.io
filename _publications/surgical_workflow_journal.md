@@ -5,4 +5,4 @@ permalink: /publication/surgical_workflow_journal
 date: 2022-09-06
 venue: 'Medical Image Analysis'
 ---
-[Code](https://github.com/Flaick/Surgical-Workflow-Anticipation)
+[PDF](https://people.scs.carleton.ca/~matthewholden/assets/Yuan2022a.pdf) [Code](https://github.com/Flaick/Surgical-Workflow-Anticipation)
