@@ -86,7 +86,7 @@ author:
   location         : "Strasbourg, France"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://www.scholar.google.com/citations?user=zId4EqoAAAAJ&hl=zh-CN"
+  googlescholar    : "https://www.scholar.google.com/citations?user=zId4EqoAAAAJ"
   email            : "kun.yuan@ext.ihu-strasbourg.eu"
 #   researchgate     : "https://camma.u-strasbg.fr/"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Wtfrgku"
+  twitter          : "KY_Yuan1"
   vine             :
   weibo            :
   xing             :
