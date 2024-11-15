@@ -1,7 +1,7 @@
 ---
 title: "HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition"
 collection: publications
-permalink: /publication/surgvlp
+permalink: /publication/hecvl
 date: 2024-09-09
 venue: 'MICCAI 2024'
 ---
