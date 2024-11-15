@@ -1,7 +1,7 @@
 ---
 title: "Advancing surgical VQA with scene graph knowledge"
 collection: publications
-permalink: /publication/surgvlp
+permalink: /publication/ssg_vqa
 date: 2023-07-27
 venue: 'International Journal of Computer Assisted Radiology and Surgery'
 ---
