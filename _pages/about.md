@@ -12,6 +12,7 @@ My name is Kun Yuan, a Ph.D. student, co-supervised by Prof. [Nicolas PADOY](htt
 
 News
 ======
+[Sep. 2024] One [**paper**](https://arxiv.org/abs/2410.00263) has been accepted at **NeurIPS 2024** as spotlight.             
 [Jun. 2024] I won the [**Best Paper Award**](https://www.linkedin.com/in/kun-yuan-b2425219b/recent-activity/all/) at **IPCAI 2024**.          
 [Mar. 2024] Two [**papers**](https://scholar.google.com/citations?user=zId4EqoAAAAJ) accepted at **MICCAI 2024**.      
 [Dec. 2023] One [**paper**](https://link.springer.com/article/10.1007/s11548-024-03141-y) accepted at **IPCAI 2024**.              
