@@ -12,7 +12,7 @@ My name is Kun Yuan, a Ph.D. student, co-supervised by Prof. [Nicolas PADOY](htt
 
 News
 ======
-[Jun. 2024] I won the [**Best Paper Award**](https://www.linkedin.com/in/kun-yuan-b2425219b/recent-activity/all/) at **PCAI 2024**.          
+[Jun. 2024] I won the [**Best Paper Award**](https://www.linkedin.com/in/kun-yuan-b2425219b/recent-activity/all/) at **IPCAI 2024**.          
 [Mar. 2024] Two [**papers**](https://scholar.google.com/citations?user=zId4EqoAAAAJ) accepted at **MICCAI 2024**.      
 [Dec. 2023] One [**paper**](https://link.springer.com/article/10.1007/s11548-024-03141-y) accepted at **IPCAI 2024**.              
 [Aug. 2023] We are excited to share our [**surgical vision-language foundation model**](https://arxiv.org/abs/2307.15220), the [**code and pre-trained weights**](https://github.com/CAMMA-public/SurgVLP/) are released.             
