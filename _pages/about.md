@@ -51,11 +51,11 @@ News
 ## Education
 
 ### Ph.D. Student  
-CAMP(https://www.cs.cit.tum.de/camp/start/), Technische Universität München, Germany  
+[CAMP](https://www.cs.cit.tum.de/camp/start/), Technische Universität München, Germany  
 *Sep 2022 – Present*
 
 ### Ph.D. Student  
-CAMMA(http://camma.u-strasbg.fr/), Université de Strasbourg, France  
+[CAMMA](http://camma.u-strasbg.fr/), Université de Strasbourg, France  
 *Sep 2022 – Present*
 
 ### Graduate Student  
