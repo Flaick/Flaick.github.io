@@ -12,19 +12,24 @@ My name is Kun Yuan, a Ph.D. student, co-supervised by Prof. [Nicolas PADOY](htt
 
 News
 ======
-[Mar. 2025] One [**paper**](https://arxiv.org/abs/2503.02579) has been accepted at **CVPR 2025**.         
-[Dec. 2024] One [**paper**](https://arxiv.org/abs/2502.02438) has been accepted at **AAAI 2025** as **oral** presentation.           
-[Dec. 2024] One [**paper**](https://arxiv.org/abs/2501.09555) has been early accepted at **IPCAI 2025**.           
-[Sep. 2024] One [**paper**](https://arxiv.org/abs/2410.00263) has been accepted at **NeurIPS 2024** as **spotlight**.             
-[Jun. 2024] I won the [**Best Paper Award**](https://www.linkedin.com/in/kun-yuan-b2425219b/recent-activity/all/) at **IPCAI 2024**.          
-[Mar. 2024] Two [**papers**](https://scholar.google.com/citations?user=zId4EqoAAAAJ) accepted at **MICCAI 2024**.      
-[Dec. 2023] One [**paper**](https://link.springer.com/article/10.1007/s11548-024-03141-y) accepted at **IPCAI 2024**.              
-[Aug. 2023] We are excited to share our [**surgical vision-language foundation model**](https://arxiv.org/abs/2307.15220), the [**code and pre-trained weights**](https://github.com/CAMMA-public/SurgVLP/) are released.             
-[Jul. 2023] Successful completion of the [**Surgical Data Science Summer School**](https://www.edu4sds.org/), with heartfelt thanks to all involved.                             
-[Sep. 2022] I am pleased to join **CAMMA** and **CAMP** for the Ph.D. study.             
-[Jul. 2022] I won the [**Joseph De Koninck Thesis Prize**](https://www.uottawa.ca/study/graduate-studies/thesis-prizes-contests) at Uottawa.             
-[Mar. 2022] One paper accepted at **Medical Image Analysis**.            
-[Oct. 2021] I won the [**Young Scientist Award**](http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/) at MICCAI 2021.
+[Jul 2025] 3 **papers** accepted at **MICCAI 2025**.  
+[Jul 2025] 1 [**paper**](https://arxiv.org/abs/2411.15421) accepted at **ICCV 2025**.  
+[Jun 2025] We won the **ML in CAI Award** at **IPCAI 2025**, congrats to Tingxuan Chen.  
+[May 2025] [**SurgVLP**](https://arxiv.org/abs/2307.15220) accepted at **Medical Image Analysis**.  
+[Mar 2025] 1 [**paper**](https://arxiv.org/abs/2503.02579) accepted at **CVPR 2025**.  
+[Dec 2024] 1 [**paper**](https://arxiv.org/abs/2502.02438) accepted at **AAAI 2025** as an **oral** presentation.  
+[Dec 2024] 1 [**paper**](https://arxiv.org/abs/2501.09555) early accepted at **IPCAI 2025**.  
+[Sep 2024] 1 [**paper**](https://arxiv.org/abs/2410.00263) accepted at **NeurIPS 2024** as a **spotlight**.  
+[Jun 2024] Won the [**Best Paper Award**](https://www.linkedin.com/in/kun-yuan-b2425219b/recent-activity/all/) at **IPCAI 2024**.  
+[Mar 2024] Two [**papers**](https://scholar.google.com/citations?user=zId4EqoAAAAJ) accepted at **MICCAI 2024**.  
+[Dec 2023] One [**paper**](https://link.springer.com/article/10.1007/s11548-024-03141-y) accepted at **IPCAI 2024**.  
+[Aug 2023] Released our [**surgical vision-language foundation model**](https://arxiv.org/abs/2307.15220)(SurgVLP), with [**code and weights**](https://github.com/CAMMA-public/SurgVLP/).  
+[Jul 2023] Completed the [**Surgical Data Science Summer School**](https://www.edu4sds.org/), thanks to all involved.  
+[Sep 2022] Joined **CAMMA** and **CAMP** for Ph.D. study.  
+[Jul 2022] Won the [**Joseph De Koninck Thesis Prize**](https://www.uottawa.ca/study/graduate-studies/thesis-prizes-contests) at UOttawa.  
+[Mar 2022] 1 [**paper**](https://www.sciencedirect.com/science/article/pii/S1361841522002390) accepted at **Medical Image Analysis**.  
+[Oct 2021] Won the [**Young Scientist Award**](http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/) at **MICCAI 2021**.  
+
 
 Education
 ======
