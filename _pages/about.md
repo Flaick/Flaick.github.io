@@ -30,21 +30,39 @@ News
 [Mar 2022] 1 [**paper**](https://www.sciencedirect.com/science/article/pii/S1361841522002390) accepted at **Medical Image Analysis**.  
 [Oct 2021] Won the [**Young Scientist Award**](http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/) at **MICCAI 2021**.  
 
+----
 
-Education
-======
+## Experiences
 
-### Ph.D. Student, Technische Universität München, 09/2022 - present   
+### Visiting Researcher  
+[MARVL](https://marvl.stanford.edu/), Stanford University, USA  
+*Jul 2025 – Nov 2025*
 
-### Ph.D. Student, Université de Strasbourg, 09/2022 - present 
+### Research Engineer  
+[OpenMMLab](https://openmmlab.com/), SHLab, China  
+*Mar 2021 – Mar 2022*
 
-### Graduate Student, University of Ottawa, 09/2019 - 09/2022        
+### Visiting Student  
+[DEEP BIT LAB](https://mypage.cuhk.edu.cn/academics/lizhen/), Chinese University of Hong Kong (Shenzhen), China  
+*Apr 2019 – Nov 2019*
 
-### Undergraduate Student, China University of Petroleum, 09/2015 - 09/2019         
+----
 
-Experiences
-======
+## Education
 
-### Researh Engineer, [OpenMMLab](https://openmmlab.com/), [SHLab](https://www.shlab.org.cn/),  03/2021 - 03/2022  
+### Ph.D. Student  
+CAMP(https://www.cs.cit.tum.de/camp/start/), Technische Universität München, Germany  
+*Sep 2022 – Present*
 
-### Visiting Student, [DEEP BIT LAB](https://mypage.cuhk.edu.cn/academics/lizhen/), Chinese University of Hongkong (Shenzhen), 04/2019 - 11/2019        
+### Ph.D. Student  
+CAMMA(http://camma.u-strasbg.fr/), Université de Strasbourg, France  
+*Sep 2022 – Present*
+
+### Graduate Student  
+University of Ottawa, Canada  
+*Sep 2019 – Sep 2022*
+
+### Undergraduate Student  
+China University of Petroleum, China  
+*Sep 2015 – Sep 2019*
+
